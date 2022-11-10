@@ -1,0 +1,19 @@
+@import './variables.scss';
+
+*{
+    background-color: #ffffff;
+}
+
+.rounded{
+    background-color: $dark;
+}
+
+
+.header{
+    color: $dark;
+    font-weight: 700;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+}
