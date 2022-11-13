@@ -15,7 +15,7 @@ return(
               Lorem totam maiores! Placeat, mollitia esse odio autem<br/>
               recusandae laborum corrupti quaerat minus dolorem earum fugit, molestias
             </p>
-            <button className="btn btn-lg rounded">GET STARTED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--></button>
+            <button className="btn btn-lg text-white rounded">GET STARTED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--></button>
           </div>
           <div className="col-4 d-flex justify-content-end">
             <img
