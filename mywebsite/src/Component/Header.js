@@ -1,14 +1,14 @@
 import React from "react";
-import './Helper/project.scss'
-import icon from './Helper/images/A U.svg'
+import "./Helper/project.scss";
+import icon from "./Helper/images/A U.svg";
 
-function Header(){
-    return(
-        <>
-        <nav className="navbar navbar-expand-lg">
-        <div className="container">
+function Header() {
+  return (
+    <>
+      <nav className="navbar navbar-expand-lg">
+        <div className="container text-align-center">
           <a href="#" className="navbar-brand ">
-            <img src={icon}/>  <span className="header">AWESOME UI</span>
+            <img src={icon} /> <span className="header">AWESOME UI</span>
           </a>
           <button
             className="navbar-toggler"
@@ -18,7 +18,7 @@ function Header(){
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          <div className="collapse navbar-collapse" id="navmenu">
+          <div className="collapse navbar-collapse text-center" id="navmenu">
             <ul className="navbar-nav ms-auto align-items-center ">
               <li className="nav-item px-3">
                 <a href="#home" className="nav-link">
@@ -40,16 +40,14 @@ function Header(){
                   USE CASES
                 </a>
               </li>
-              <li className="nav-item px-3 pg-">
-                <a href="#home" className="nav-link rounded p-2">
-                  REGISTER
-                </a>
-              </li>
+              <button className="btn btn-lg text-white rounded">
+                REGISTER
+              </button>
             </ul>
           </div>
         </div>
       </nav>
-        </>
-    )
+    </>
+  );
 }
-export default Header
+export default Header;

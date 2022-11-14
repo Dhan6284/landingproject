@@ -18,62 +18,62 @@ function Scroll(){
           </div>
         </div>
         <div className="d-flex scroll-wrapper mb-5">
-          <div className="card item">
+          <div className="card item p-4">
             <div className="d-flex">
               <img src={CTO} alt="" />
-              <h5>CTO May & Baker<p>Tayo Oshinuma</p></h5>
+              <h6>CTO May & Baker<p className="text-muted">Tayo Oshinuma</p></h6>
             </div>
-            <p className="card-text content-text">
+            <p className="card-text content-text mt-4">
               Then Create your Pirate Team and enter the Grand Line.
               Lorem totam maiores! Placeat, mollitia esse odio autem
             </p>
           </div>
-          <div className="card item">
+          <div className="card item p-4">
             <div className="d-flex">
               <img src={Leon} alt="" />
-              <h5>CTO May & Baker<p>Tayo Oshinuma</p></h5>
+              <h6>CTO May & Baker<p className="text-muted">Tayo Oshinuma</p></h6>
             </div>
-            <p className="card-text bg-p">
+            <p className="card-text bg-p mt-4">
               Then Create your Pirate Team and enter the Grand Line.
               Lorem totam maiores! Placeat, mollitia esse odio autem
             </p>
           </div>
-          <div className="card item">
+          <div className="card item p-4">
             <div className="d-flex">
               <img src={philip} alt="" />
-              <h5>CTO May & Baker<p>Tayo Oshinuma</p></h5>
+              <h6>CTO May &<p className="text-muted">Tayo Oshinuma</p></h6>
             </div>
-            <p className="card-text bg-p">
+            <p className="card-text bg-p mt-4">
               Then Create your Pirate Team and enter the Grand Line.
               Lorem totam maiores! Placeat, mollitia esse odio autem
             </p>
           </div>
-          <div className="card item">
+          <div className="card item p-4">
             <div className="d-flex">
               <img src={CTO} alt="" />
-              <h5>CTO May & Baker<p>Tayo Oshinuma</p></h5>
+              <h6>CTO May & Baker<p className="text-muted">Tayo Oshinuma</p></h6>
             </div>
-            <p className="card-text bg-p">
+            <p className="card-text bg-p mt-4">
               Then Create your Pirate Team and enter the Grand Line.
               Lorem totam maiores! Placeat, mollitia esse odio autem
             </p>
           </div>
-          <div className="card item">
+          <div className="card item p-4">
             <div className="d-flex">
               <img src={Leon} alt="" />
-              <h5>CTO May & Baker<p>Tayo Oshinuma</p></h5>
+              <h6>CTO May & Baker<p className="text-muted">Tayo Oshinuma</p></h6>
             </div>
-            <p className="card-text bg-p">
+            <p className="card-text bg-p mt-4">
               Then Create your Pirate Team and enter the Grand Line.
               Lorem totam maiores! Placeat, mollitia esse odio autem
             </p>
           </div>
-          <div className="card item">
+          <div className="card item p-4">
             <div className="d-flex">
               <img src={philip} alt="" />
-              <h5>CTO May & Baker<p>Tayo Oshinuma</p></h5>
+              <h6>CTO May&<p className="text-muted">Tayo Oshinuma</p></h6>
             </div>
-            <p className="card-text bg-p">
+            <p className="card-text bg-p mt-4">
               Then Create your Pirate Team and enter the Grand Line.
               Lorem totam maiores! Placeat, mollitia esse odio autem
             </p>
